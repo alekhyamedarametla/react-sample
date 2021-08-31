@@ -22,7 +22,7 @@
     "prepare": "husky install",
     "prettier": "prettier . --write",
     "lint:check": "eslint .",
-    "coverage":"jest --collect-coverage"
+    "coverage": "jest --collect-coverage"
   },
   "eslintConfig": {
     "extends": [
