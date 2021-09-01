@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "prettier": "prettier . --write",
-    "lint:check": "eslint .",
+    "lint": "next lint",
     "coverage": "jest --collect-coverage"
   },
   "eslintConfig": {
